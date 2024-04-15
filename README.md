@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:1/4/24
+## Date:14/04/24
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -132,10 +132,6 @@ urlpatterns = [
     path('',views.prismarea,name="areaofsquareprismroot")
 ]
 ```
-
-## SERVER SIDE PROCESSING:
-
-<img width="1512" alt="ssrout" src="https://github.com/Nandakesore0210/MathServer/assets/149365088/1ff7077d-a8a3-4f3d-b24b-2253c6645d10">
 
 ## HOMEPAGE:
 
